@@ -3,7 +3,7 @@
 **Empowering Women, Transforming India**
 
 ## Overview
-She Can Foundation is a web project dedicated to empowering women and highlighting stories of impact across India. This repository contains the source code for the landing page.
+She Can Foundation is a web project dedicated to empowering women and highlighting stories of impact across India. This repository contains the source code for the landing page of the foundation.
 
 ## Technologies Used
 - HTML5
